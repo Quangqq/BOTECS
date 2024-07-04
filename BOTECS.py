@@ -4,7 +4,7 @@
 # Broadcasting channel Telegram : @Team_Exploit
 # Tool Vip BotECS In channel : @KnightGuardian59
 
-token = '6769722085:AAHbaRgRxnUPoZpXkUMkswBkvSV5Adoc2Fg'
+token = '7418315492:AAGoyTQ2zyaG6lX0S9PHtzO--Z4ZgzfvaFw'
 chat_id = '-1002136414572' 
 
 from os import system
